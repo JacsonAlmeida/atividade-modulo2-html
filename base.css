@@ -24,13 +24,13 @@ body {
     background-color: #c83d2e;
     padding: 10px 20px 0px;
 }
-.header {background-image: url(imagens/0000022.jpg);
+.header {background-image: url(imagens/0000023.jpg);
     background-size: cover;
     background-color: #783332;
     min-height: 150px;
 }
 
-.header2 {background-image: url(imagens/0000023.jpg);
+.header2 {background-image: url(imagens/0000022.jpg);
     background-size: cover;
     background-color: #783332;
     min-height: 150px;}
