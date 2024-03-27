@@ -84,3 +84,19 @@ padding-left: 40px;}
 
 #postos {padding-left: 100px;
 position:relative;}
+
+.tabela {
+   
+}
+
+th {
+    background-color: #c83d2e;
+    color:#ffffff;
+    width:200px;
+}
+
+table tbody tr:nth-child(even) td {background-color: #cdcdcd;}
+
+table tbody tr:hover td {background-color: #969393;}
+
+table tbody td {text-align: center;}
