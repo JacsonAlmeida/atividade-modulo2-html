@@ -100,7 +100,8 @@ th {
 .localizacao {background-color: #c83d2e;
 color: #ffffff;
 font-size: 16px;
-font-weight: 400;}
+font-weight: 400;
+text-align: center;}
 
 #titulo {font-size: 25px;
     background-color: #c83d2e;
@@ -108,13 +109,13 @@ font-weight: 400;}
     font-weight: 600;
 
 }
-#ajust {padding-right: 750px;
+#ajust {padding-right: 750px; font-size: 18px;
 }
-#ajust2 {padding-right: 750px;
+#ajust2 {padding-right: 750px;font-size: 18px;
 }
-#ajust3 {padding-right: 735px;
+#ajust3 {padding-right: 730px;font-size: 18px;
 }
-#ajust4 {padding-right: 720px;
+#ajust4 {padding-right: 710px;font-size: 18px;
 }
 .forms {background-color: #ffffff;
 padding-left: ;
@@ -127,12 +128,14 @@ input {width: 800px;
     height: 30px;
 border: solid 2px;
 border-radius: 5px;
-border-color: #783332;}
+border-color: #783332;
+margin-bottom: 10px;}
 
 textarea { width: 800px;
     border: solid 2px;
     border-radius: 5px;
     border-color: #783332;
+    padding-left: 10px;
     }
 
 #priv {width: 15px;
@@ -149,10 +152,28 @@ height: 40px;
 color: #f1f1f1;
 font-size: 16px;
 border-radius: 10px;
+margin: 10px;
+font-weight: bold;
+cursor: pointer;
+transition: all .3s ease-out;
 }
+
+button:hover{background-color: #ff1900;
+    transition: all .4s ease-out;}
 
 .problem {background-color: #ffffff;
 padding-left: 90px;
 padding-bottom: 50px;}
 
+hr {margin: 50px 50px;}
+.list , li:hover{color: #ffffff;
+background-color:; padding-left: 18px;
+transition: all .30s ease-out;}
 
+#test:hover{padding-left: 0;}
+
+input{padding-left: 10px;
+}
+input:hover{border-color: #ff1900;
+}
+textarea:hover{border-color: #ff1900;}
