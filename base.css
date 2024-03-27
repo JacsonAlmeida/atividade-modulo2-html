@@ -95,8 +95,58 @@ th {
     width:200px;
 }
 
-table tbody tr:nth-child(even) td {background-color: #cdcdcd;}
 
-table tbody tr:hover td {background-color: #969393;}
 
-table tbody td {text-align: center;}
+.localizacao {background-color: #c83d2e;
+color: #ffffff;
+font-size: 16px;
+font-weight: 400;}
+
+#titulo {font-size: 25px;
+    background-color: #c83d2e;
+    color: #ffffff;
+    font-weight: 600;
+
+}
+#ajust {padding-right: 700px;
+}
+.forms {background-color: #ffffff;
+padding-left: ;
+padding-bottom: 10px;
+;}
+
+
+
+input {width: 800px;
+    height: 30px;
+border: solid 2px;
+border-radius: 5px;
+border-color: #783332;}
+
+textarea { width: 800px;
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: #783332;
+    }
+
+#priv {width: 15px;
+padding-right: 800px;
+}
+#privace { padding-right: 800px;
+font-size: 14px;
+text-align: left;}
+
+button {background-color: #c83d2e;
+border: none;
+width: 90px;
+height: 40px;
+color: #f1f1f1;
+font-size: 16px;
+border-radius: 10px;
+}
+
+.problem {background-color: #ffffff;
+padding-left: 90px;
+padding-bottom: 50px;}
+
+
