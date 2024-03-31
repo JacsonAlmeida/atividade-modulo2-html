@@ -177,3 +177,5 @@ input{padding-left: 10px;
 input:hover{border-color: #ff1900;
 }
 textarea:hover{border-color: #ff1900;}
+
+#privace {white-space: nowrap;}
